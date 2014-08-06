@@ -1,0 +1,10 @@
+name = Starter: Forms
+description = Starter Forms.
+core = 7.x
+package = Starter
+version = 7.x-1.0
+project = starter_forms
+dependencies[] = entityform
+dependencies[] = entityform_block
+features[features_api][] = api:2
+project path = sites/all/modules/features
