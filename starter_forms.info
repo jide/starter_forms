@@ -6,5 +6,7 @@ version = 7.x-1.0
 project = starter_forms
 dependencies[] = entityform
 dependencies[] = entityform_block
+dependencies[] = honeypot
+dependencies[] = honeypot_entityform
 features[features_api][] = api:2
 project path = sites/all/modules/features
